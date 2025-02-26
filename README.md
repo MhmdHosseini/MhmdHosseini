@@ -24,4 +24,3 @@
 ![The Dissentix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MhmdHosseini&show_icons=true&hide_title=true&count_private=true&hide=prs)
 ![Build Status](https://img.shields.io/badge/Build-passing-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
-![The Dissentix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MhmdHosseini&show_icons=true&hide_title=true&count_private=true&hide=prs)
