@@ -1,12 +1,10 @@
 # About Me
 👋 Hi, I'm [Mohammad Hosseini]
-
-- 🔭 I’m currently working on **Bug Bounty Hunting**, **Web Penetration Testing**, and **Cyber Security Researching**.
-- 🌱 I’m currently learning **Python**, **JavaScript**, and **React**.
-- 🤔 I’m looking for help with **Security Research** and **Penetration Testing**.
-- 💬 Ask me about **Web Security**, **Python Development**, **Ethical Hacking**, and **Bug Bounty Programs**.
-- 📫 How to reach me: [Mhmdhosseini1381@gmail.com]
-- 😄 Pronouns: He/Him
+👨‍💻 Software Developer | 💻 Cybersecurity Enthusiast  
+🔍 Passionate about **Web Development**, **Bug Bounty Hunting**, and **Penetration Testing**  
+🌱 Always learning and improving my skills in **Python**, **JavaScript**, **React**, and **Node.js**  
+📫 How to reach me: [Mhmdhosseini1381@gmail.com]
+😄 Pronouns: He/Him
 
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/bigbang8793)
